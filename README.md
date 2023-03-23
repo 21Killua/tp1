@@ -13,7 +13,7 @@
 <img src="TpSaad2/image/image4.png">
 <h2>Package Imetier</h2>
 <h3>Interface Imetier</h3>
-<img src="TpSaad2/image/image5.png">
+<img src="TpSaad2/image/image6.png">
 <h3>Classe qui implement l'interface Imetier</h3>
 <img src="TpSaad2/image/image7.png">
 <h3>classe calcul pour faire un test unitair </h3>
